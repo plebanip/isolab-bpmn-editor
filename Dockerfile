@@ -1,4 +1,4 @@
-FROM node:10 AS node
+FROM node:12 AS node
 
 RUN mkdir /home/app
 RUN mkdir /tmp/bpmn-js
