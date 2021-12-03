@@ -11,7 +11,8 @@ The editor is adopted in the following courses offered at Politecnico di Milano:
 
 ## Local deployment (source code)
 
-Node stack is required 
+[NodeJS](http://nodejs.org) development stack is required 
+
 Clone the current git repo and run 
 
 ```
