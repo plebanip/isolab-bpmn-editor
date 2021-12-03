@@ -8,3 +8,17 @@ The editor is adopted in the following courses offered at Politecnico di Milano:
 - Sistemi Informativi (per il Settore dell'Informazione)
 - Tecnologie Digitali
 - Process and Service Design
+
+## Local deployment (source code)
+
+Node stack is required 
+Clone the current git repo and run 
+
+```
+npm install
+npm start
+```
+
+## Local deployment (docker image)
+
+
