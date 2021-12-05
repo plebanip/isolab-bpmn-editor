@@ -23,6 +23,8 @@ The editor is running on http://localhost:80
 
 ## Local deployment (docker image)
 
+Docker platform installed on your machine is required
+
 Run the command
 
 ```
