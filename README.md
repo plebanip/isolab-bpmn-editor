@@ -19,7 +19,12 @@ Clone the current git repo and run
 npm install
 npm start
 ```
+The editor is running on http://localhost:80
 
 ## Local deployment (docker image)
 
+Run the command
 
+```
+ docker run --name isolab-bpmn-editor -p 80:80 -t plebanip/isolab-bpmn-editor
+```
