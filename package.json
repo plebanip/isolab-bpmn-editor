@@ -1,7 +1,7 @@
 {
-  "name": "bpmn-js-example-modeler",
-  "version": "0.0.0",
-  "description": "A simple modeler built with bpmn-js",
+  "name": "isolab-bpmn-modeler",
+  "version": "0.0.1",
+  "description": "A simple modeler built with bpmn-js used at Isolab @ POLIMI for teaching purposes",
   "scripts": {
     "all": "run-s lint build",
     "build": "webpack --mode production",
